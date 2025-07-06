@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { ExternalLink, Calendar, MapPin, Building, Users, DollarSign } from 'lucide-react';
+import  { useState } from 'react';
+import { ExternalLink, MapPin, Building , DollarSign } from 'lucide-react';
 
 const Projects = () => {
   const [activeFilter, setActiveFilter] = useState('All');
