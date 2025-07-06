@@ -1,4 +1,3 @@
-import React from 'react';
 import { ArrowRight, CheckCircle, Award, Users, Clock } from 'lucide-react';
 
 const Hero = () => {

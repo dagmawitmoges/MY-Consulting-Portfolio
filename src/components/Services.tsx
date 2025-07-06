@@ -1,4 +1,3 @@
-import React from 'react';
 import { Building, Calculator, FileCheck, Users, Wrench, Shield } from 'lucide-react';
 
 const Services = () => {
